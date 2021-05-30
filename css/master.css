@@ -6,3 +6,15 @@
     margin: 0;
     padding: 0;
 }
+
+.nav-bar {
+    text-align: center;
+}
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-link {
+    text-decoration: none;
+}
