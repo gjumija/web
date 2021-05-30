@@ -1,3 +1,3 @@
 # Web
-- This is supposed to be my firs proper website
+- This is supposed to be my first proper website
 - Using just CSS, JS & PHP
