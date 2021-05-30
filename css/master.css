@@ -3,4 +3,6 @@
     --bg-color-secondary: black;
     --text-color-primary: black;
     --text-color-secondary: white;
+    margin: 0;
+    padding: 0;
 }
